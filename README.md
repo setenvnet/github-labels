@@ -26,7 +26,7 @@ sudo gem install pygments.rb
 
 してから、再度 `brew install` する。
 
-### Usage
+## Usage
 
 対象の GitHub リポジトリをローカルにクローンして、そのディレクトリに移動。
 

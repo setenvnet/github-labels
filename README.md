@@ -31,7 +31,7 @@ sudo gem install pygments.rb
 対象の GitHub リポジトリをローカルにクローンして、そのディレクトリに移動。
 
 ```
-$ cd setenvnet/exampel-repo
+$ cd setenvnet/example-repo
 $ /path/to/github-labels.sh
 ```
 

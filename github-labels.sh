@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Remove existing labels.
-ghi label -l | xargs -I existing ghi label -D existing
+ghi label -l | xargs -I existing_labels ghi label -D existing_labels
 
 # Create labels.
 ghi label "優先度：a Now" -c 0052cc

@@ -24,7 +24,7 @@ ghi label "状況：停止中" -c ff0000
 ghi label "段階：00 要件定義" -c bfe5bf
 ghi label "段階：01 見積" -c bfe5bf
 ghi label "段階：10 素材待ち" -c 8d6d6d
-ghi label "段階：11 承認待ち" -c 8d6d6d
+ghi label "段階：11 回答待ち" -c 8d6d6d
 ghi label "段階：12 要連絡" -c 89e589
 ghi label "段階：20 外注" -c bfe5bf
 ghi label "段階：21 原稿整理" -c bfe5bf
